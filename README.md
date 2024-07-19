@@ -25,7 +25,7 @@ I'm a Computer Scinese student who lives in the Eygpt. I'm learning how to code.
 
 - 🌱 I’m currently learning **Frontend with react Js**
 - 💬 Ask me about **OPP, JS, CSS ,HTML,BootStrab**
-- 🤝 I’m Competitive Programmer in [Codeforces & Leetcode](Codeforces & Leetcode)
+- 🤝 I’m Competitive Programmer in [Codeforces & Leetcode]
 - 📫 How to reach me **mahmoudzanitty@gmail.com**
 
 - 🧑‍🎓 I’m currently learning **Computer Science and Software Engineering.**
