@@ -15,7 +15,6 @@ I’m a Computer Science student at SVU with a strong foundation in front-end de
 
 Check out my YouTube channel here: [www.youtube.com/@m_abrazeg]
 
-عرض عنوان البريد الإلك
 </p>
 
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
