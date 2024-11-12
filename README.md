@@ -6,12 +6,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&duration=4000&pause=1000&color=88A1FF&center=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile;A+passionate+frontend+developer+from+Egypt;I'm+a+Computer+Science+engineer+)](https://git.io/typing-svg)
 <!--h1 without bottom border-->
-<p align="center"> I am Mahmoud Abdelrazek. I Love ❤️ programming . </p>
+<p align="center">Mahmoud Abdelrazek</p>
 <p>
-I'm a Computer Scinese student who lives in the Eygpt. I'm learning how to code.I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+
+CS Student @SVU | GDG Instructor | Front-End Developer | Problem Solver | Data Structures & Algorithms Enthusiast
+
+I’m a Computer Science student at SVU with a strong foundation in front-end development, competitive programming, and a passion for data structures and algorithms. As an instructor with the Google Developer Community at my university, I teach object-oriented programming and essential CS concepts. I also run a YouTube channel, where I share in-depth tutorials on topics like non-linear data structures and a comprehensive course on pointers and memory management in C/C++. I’m driven by a love for learning and enjoy helping others grow through educational content. Let’s connect and collaborate!
+
+Check out my YouTube channel here: [https://youtube.com/@m_abrazeg?si=T-xWaRSRbUhQudTf]
 </p>
-
-
 
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <a target="_blank" align="center">
