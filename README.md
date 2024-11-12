@@ -13,7 +13,9 @@
 
 I’m a Computer Science student at SVU with a strong foundation in front-end development, competitive programming, and a passion for data structures and algorithms. As an instructor with the Google Developer Community at my university, I teach object-oriented programming and essential CS concepts. I also run a YouTube channel, where I share in-depth tutorials on topics like non-linear data structures and a comprehensive course on pointers and memory management in C/C++. I’m driven by a love for learning and enjoy helping others grow through educational content. Let’s connect and collaborate!
 
-Check out my YouTube channel here: [https://youtube.com/@m_abrazeg?si=T-xWaRSRbUhQudTf]
+Check out my YouTube channel here: [www.youtube.com/@m_abrazeg]
+
+عرض عنوان البريد الإلك
 </p>
 
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -64,13 +66,6 @@ Check out my YouTube channel here: [https://youtube.com/@m_abrazeg?si=T-xWaRSRbU
 
 <!-- Connect with me -->
 -----
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br>
 
 <!-- Contact with me -->
